@@ -11,22 +11,22 @@
       <AnchorPane fx:id="ReceptionistAnc" layoutX="222.0" prefHeight="528.0" prefWidth="573.0" />
       <AnchorPane prefHeight="528.0" prefWidth="223.0" style="-fx-background-color: #9ACBD0;">
          <children>
-            <JFXButton layoutX="26.0" layoutY="182.0" onAction="#therapySessionOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Therapy Session" textFill="WHITE">
+            <JFXButton layoutX="26.0" layoutY="182.0" onAction="#therapySessionOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Therapy Session">
                <font>
                   <Font name="System Bold" size="16.0" />
                </font>
             </JFXButton>
-            <JFXButton layoutX="26.0" layoutY="264.0" onAction="#paymentOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Payments" textFill="WHITE">
+            <JFXButton layoutX="26.0" layoutY="264.0" onAction="#paymentOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Payments" textFill="#0d0d0d">
                <font>
                   <Font name="System Bold" size="16.0" />
                </font>
             </JFXButton>
-            <JFXButton layoutX="26.0" layoutY="101.0" onAction="#patientOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Patient" textFill="WHITE">
+            <JFXButton layoutX="26.0" layoutY="101.0" onAction="#patientOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Patient">
                <font>
                   <Font name="System Bold" size="16.0" />
                </font>
             </JFXButton>
-            <JFXButton layoutX="26.0" layoutY="344.0" onAction="#patientHistoryOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Patient History" textFill="WHITE">
+            <JFXButton layoutX="26.0" layoutY="344.0" onAction="#patientHistoryOnAction" prefHeight="44.0" prefWidth="172.0" style="-fx-background-color: #D5C7A3;" text="Patient History" textFill="#0d0d0d">
                <font>
                   <Font name="System Bold" size="16.0" />
                </font>
